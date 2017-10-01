@@ -1,0 +1,23 @@
+{
+  "name": "es6_stuffs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willianhy/es6_stuffs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willianhy/es6_stuffs/issues"
+  },
+  "homepage": "https://github.com/willianhy/es6_stuffs#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
